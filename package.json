@@ -26,7 +26,8 @@
   ],
   "dependencies": {
     "express": "~4.1.0",
-    "body-parser": "~1.0.2"
+    "body-parser": "~1.0.2",
+    "mongodb": "~1.4.2"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
